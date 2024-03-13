@@ -1,52 +1,52 @@
 [
   {
-    "id": "1",
-    "cover": "https://i.ibb.co/S3XvB7x/toy-bricks-table.jpg",
-    "title": "Lorem Ipsum",
-    "author": "John Doe",
-    "author_img": "https://i.ibb.co/NnD28Tq/young-artist-painting-canvas.jpg",
-    "posted_date": "2024-03-12",
-    "reading": "5 mins read",
-    "hashtags": ["#fiction", "#literature", "#shortstory"]
+      "id": "1",
+      "cover": "https://i.ibb.co/S3XvB7x/toy-bricks-table.jpg",
+      "title": "Lorem Ipsum",
+      "author": "John Doe",
+      "author_img": "https://i.ibb.co/NnD28Tq/young-artist-painting-canvas.jpg",
+      "posted_date": "2024-03-12",
+      "reading": 5,
+      "hashtags": ["#fiction", "#literature", "#shortstory"]
   },
   {
-    "id": "2",
-    "cover": "https://i.ibb.co/wpP1x4C/flat-lay-work-space-with-notebook-keyboard.jpg",
-    "title": "Dolor Sit Amet",
-    "author": "Jane Smith",
-    "author_img": "https://i.ibb.co/NnD28Tq/young-artist-painting-canvas.jpg",
-    "posted_date": "2024-03-11",
-    "reading": "8 mins read",
-    "hashtags": ["#sci-fi", "#technology", "#future"]
+      "id": "2",
+      "cover": "https://i.ibb.co/wpP1x4C/flat-lay-work-space-with-notebook-keyboard.jpg",
+      "title": "Dolor Sit Amet",
+      "author": "Jane Smith",
+      "author_img": "https://i.ibb.co/NnD28Tq/young-artist-painting-canvas.jpg",
+      "posted_date": "2024-03-11",
+      "reading": 8,
+      "hashtags": ["#sci-fi", "#technology", "#future"]
   },
   {
-    "id": "3",
-    "cover": "https://i.ibb.co/R7XWQcG/painting-mountain-lake-with-mountain-background.jpg",
-    "title": "Consectetur Adipiscing",
-    "author": "Adam Johnson",
-    "author_img": "https://i.ibb.co/NnD28Tq/young-artist-painting-canvas.jpg",
-    "posted_date": "2024-03-10",
-    "reading": "10 mins read",
-    "hashtags": ["#philosophy", "#science", "#humanity"]
+      "id": "3",
+      "cover": "https://i.ibb.co/R7XWQcG/painting-mountain-lake-with-mountain-background.jpg",
+      "title": "Consectetur Adipiscing",
+      "author": "Adam Johnson",
+      "author_img": "https://i.ibb.co/NnD28Tq/young-artist-painting-canvas.jpg",
+      "posted_date": "2024-03-10",
+      "reading": 10,
+      "hashtags": ["#philosophy", "#science", "#humanity"]
   },
   {
-    "id": "4",
-    "cover": "https://i.ibb.co/S3XvB7x/toy-bricks-table.jpg",
-    "title": "Sed Do Eiusmod Tempor",
-    "author": "Emily Brown",
-    "author_img": "https://i.ibb.co/NnD28Tq/young-artist-painting-canvas.jpg",
-    "posted_date": "2024-03-09",
-    "reading": "7 mins read",
-    "hashtags": ["#health", "#wellness", "#mindfulness"]
+      "id": "4",
+      "cover": "https://i.ibb.co/S3XvB7x/toy-bricks-table.jpg",
+      "title": "Sed Do Eiusmod Tempor",
+      "author": "Emily Brown",
+      "author_img": "https://i.ibb.co/NnD28Tq/young-artist-painting-canvas.jpg",
+      "posted_date": "2024-03-09",
+      "reading": 7,
+      "hashtags": ["#health", "#wellness", "#mindfulness"]
   },
   {
-    "id": "5",
-    "cover": "https://i.ibb.co/S3XvB7x/toy-bricks-table.jpg",
-    "title": "Ut Labore Et Dolore",
-    "author": "Michael Williams",
-    "author_img": "https://i.ibb.co/NnD28Tq/young-artist-painting-canvas.jpg",
-    "posted_date": "2024-03-08",
-    "reading": "6 mins read",
-    "hashtags": ["#business", "#entrepreneurship", "#success"]
+      "id": "5",
+      "cover": "https://i.ibb.co/S3XvB7x/toy-bricks-table.jpg",
+      "title": "Ut Labore Et Dolore",
+      "author": "Michael Williams",
+      "author_img": "https://i.ibb.co/NnD28Tq/young-artist-painting-canvas.jpg",
+      "posted_date": "2024-03-08",
+      "reading": 6,
+      "hashtags": ["#business", "#entrepreneurship", "#success"]
   }
 ]
